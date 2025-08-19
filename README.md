@@ -14,4 +14,4 @@ I’m currently learning how to improve gameplay and add new levels.
 - Custom UI
 - Educational purpose
 
-<img width="959" height="406" alt="Screenshot 2025-08-19 150316" src="https://github.com/user-attachments/assets/6feb8ea0-bdda-448b-a989-c6d2a8d75ca1" />
+<img width="959" height="503" alt="Screenshot 2025-08-19 152440" src="https://github.com/user-attachments/assets/b0bdad5b-f529-4d6a-bf5a-c5b3ce104ad2" />
